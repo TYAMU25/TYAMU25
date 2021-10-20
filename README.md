@@ -1,18 +1,12 @@
-### Hi there 👋
-
-<!--
-**TYAMU25/TYAMU25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-testo
-progate JAVA
+プロフィール
+２０１８年４月～２０１９年４月まで延田エンタープライズで勤務
+２０１９年１２月～２０２０年１月まで外資系保険会社マニュライフ生命で新規開拓保険営業として勤務していました。
+コロナにより契約が取れなくなり退職。
+２０２１年６月～９月末までアルバイトをしながらDMM WEBCAMPを受講
+DMM WEBCAMP卒業後
+| 名前| 栗原 |
+----|---- 
+| 生年月日 | 1995/11/15 |
+| 趣味 | アニメ　漫画　カラオケ <br> バスケットボール　メジャリーグ鑑賞 |
+| 取得資格 | 運転免許 |
+| 狙っている資格 | ITパスポート <br> AWS認定資格 <br> 基本情報技術者| 
